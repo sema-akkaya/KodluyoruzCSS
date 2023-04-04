@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    list-style-position:inside;
+    background-color: burlywood;
+}
+.image {
+    width: 400px;
+    height: 400px;
+}
+h1 {
+    color:#7f2a21;
+    font-size: 70px;
+}
+.button {
+    background-color: #7f2a21;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 45px;
+  }
+  .footer {
+    color:#7f2a21;
+  }
+  h2,h3 {
+    color:#7f2a21;
+  }
